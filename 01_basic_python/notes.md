@@ -10,3 +10,16 @@ Understand what code does, not memorize syntax
 
 ## Reflection
 (To be filled)
+
+## First Practice Reflection
+
+### What is data here?
+- A list of number representing monthly reading activity
+
+### What kind of questions feel natural?
+- Total amount
+- Average
+- Presence of zero values
+
+### Why this matters for data analysis
+- Data analysis starts from questions, not from code
