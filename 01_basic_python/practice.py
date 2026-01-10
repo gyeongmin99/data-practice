@@ -12,3 +12,12 @@ book_read = [2, 0, 1, 3, 4, 1, 0, 2]
 
 # 3. We are NOT solving yet.
 # We are Learning to think in questions.
+
+# Basic calculations
+total_books = sum(books_read)
+number_of_months = len(books_read)
+average_books = total_books / number_of_months
+
+print("Total books read:", total_books)
+print("Number of months:", number_of-months)
+print("Average per month:", average_books)
