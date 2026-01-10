@@ -2,7 +2,7 @@
 
 # 1. Imagine a small dataset
 # Example: number of books read per month
-book_read = [2, 0, 1, 3, 4, 1, 0, 2]
+books_read = [2, 0, 1, 3, 4, 1, 0, 2]
 
 # 2. Questions we might ask
 # - How many months are there?
