@@ -19,5 +19,5 @@ number_of_months = len(books_read)
 average_books = total_books / number_of_months
 
 print("Total books read:", total_books)
-print("Number of months:", number_of-months)
+print("Number of months:", number_of_months)
 print("Average per month:", average_books)
