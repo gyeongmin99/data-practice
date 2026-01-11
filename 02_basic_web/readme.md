@@ -7,15 +7,16 @@
 - 6단계: 통합 프로젝트 + 자유 조합 연습
 
 ## Structure
-portfolio-wiki/
- ├─ index.html        (메인 페이지)
- ├─ pages/
- │   ├─ about.html    (개요)
- │   ├─ research.html (연구)
- │   └─ projects.html (프로젝트)
- ├─ assets/
- │   ├─ css/
- │   └─ js/
- └─ README.md
+portfolio-wiki/ <br>
+ ├─ index.html        (메인 페이지)<br>
+ ├─ pages/<br>
+ │   ├─ about.html    (개요)<br>
+ │   ├─ research.html (연구)<br>
+ │   └─ projects.html (프로젝트)<br>
+ ├─ assets/<br>
+ │   ├─ css/<br>
+ │   └─ js/<br>
+ └─ README.md<br>
+
 
 
