@@ -6,3 +6,16 @@
 - 5단계: 실제 서비스 수준 기능 구현
 - 6단계: 통합 프로젝트 + 자유 조합 연습
 
+## Structure
+portfolio-wiki/
+ ├─ index.html        (메인 페이지)
+ ├─ pages/
+ │   ├─ about.html    (개요)
+ │   ├─ research.html (연구)
+ │   └─ projects.html (프로젝트)
+ ├─ assets/
+ │   ├─ css/
+ │   └─ js/
+ └─ README.md
+
+
